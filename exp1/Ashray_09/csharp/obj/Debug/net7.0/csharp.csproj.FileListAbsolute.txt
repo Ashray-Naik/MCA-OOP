@@ -1,0 +1,15 @@
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/bin/Debug/net7.0/csharp
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/bin/Debug/net7.0/csharp.dll
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/bin/Debug/net7.0/csharp.pdb
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.dll
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.pdb
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/ashray-naik/Desktop/Ashray/OOP_lab/Ashray_08/csharp/obj/Debug/net7.0/ref/csharp.dll
